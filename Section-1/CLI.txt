@@ -1,0 +1,21 @@
+
+CLI (Common Language Infrastructure)
+How is the .NET application compiled ? 
+
+--------------------------------------------------------------
+
+Application source code written in C# cannot be executed by the hardware directly.
+Needs to be converted to native machine code 
+Works in 2 stops : 
+
+1- Application Source Code -> Intermediate Language ( IL)
+
+ensures whatever language written in the application source code such as C# or VB.NET are all executed in a common way
+( turned into a single language called IL)
+
+2. CLR -> Native Machine Code
+
+Common Language Runtime ( CLR) is the execution engine for all .NET programs. Converts IL to Native Machine Code
+Also does other things like Thread Management, Exception Management, Class Loading and Garbage Collection.
+
+

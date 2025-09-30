@@ -1,0 +1,83 @@
+Understanding .NET Framework
+
+-----------------------------------
+
+.NET Framework is a software platform to build different types of applications such as desktops, windows and web applications.
+
+.NET has 2 major components : 
+
+1. .NET Framework
+2. .NET Core 
+
+
+.NET Framework mainly consists of 2 major components : 
+
+1. CLR (the execution engine for all applications)
+2. FCL ( Framework Class Library) ** 
+
+
+** Contains the complete library available in .NET. That means all the predefined classess, structures , interfaces that are 
+available in .NET Framework
+
+
+The .NET Framework Architecture shows the collection of all components and languages that are available in .NET framework 
+- we have more than 30 languages available in .NET but C# is the most common
+- All those languages are developed based on the CLS ( Common Language Specification) - a Specification on all those languages
+- And the CLS is developed based on the predefined libraries which is 
+     - Win Forms
+     - ASP.NET
+     - WPF
+     - Others
+- And all those libraries are developled based on ADO.NET which is used for database connections 
+- ADO.NET is based on the Base Class Library (BCL)
+- And the Base Class Library is based on the Commn Language Runtime 
+
+
+all those predfined libraries like Win Forms, ADO.NET and BCL all form FCL (Framework Class Library)
+
+
+...........................................................................................................
+
+
+
+BCL  :
+
+   - contains a set of predefined classes that can be used in all types of .NET applications to perform general 
+   i/o operations, type conversion, creation of threads etc..
+
+these include console. string, convert, task ,thread etc...
+
+   
+this is different from FCL that includes libraries specific to windows or console or web. Whereas BCL is a general one. 
+so in short FCL = BCL + specific libraires
+
+
+ADO.NET :
+
+      - contains a set of predfined classes that can also be used in all types of .NET applications for connecting to databases, 
+         retrieving data from databases and doing CRUD operations 
+
+these include SQLConnection, SQLCommand, SQLDataAdapter 
+
+
+Win Forms : 
+       - contains a set of predefined classes used specificically for windows for development of GUI elements such as 
+         form , textbox, button, checkbox etc.. 
+
+
+WPF : 
+      - the advanced version of the one above 
+
+
+ASP.NET : 
+
+      - Contains a set of predefined classes that can be used in Web Applications for development of GUI elements such as 
+        page, textbox, button, checkbox, radio buttion etc..
+    
+    * basiclaly same as Win Forms or WPF but for Web 
+    And ASP.NET has subcomponents such as 
+    -> ASP.Net Web Forms
+    -> ASP.NET Web Pages
+    -> ASP.NET MVC
+    -> ASP.NET Web API etc..
+

@@ -1,0 +1,39 @@
+CLR (Common Language Runtime)
+What is CLR and its features
+
+------------------------------------------------------
+
+it's the execution engine for all .NET languages
+
+It is the code-execution enviroment for all types of .NET applications like console, web etc...
+
+Converts IL to Native Machine Code
+
+CLR provides several runtime services which are essential such as : 
+
+1. Class Loader
+2. Memory Manager
+3. Garbage Collector
+4. JIT Compiler 
+5. Exception Manager
+6. Thread Manager
+7. Security Manager
+
+How it works : 
+
+- It loads the class if necessary ( if in code a class is used then need access ) from compiled source code to memory 
+- Then Memory Manager allocates the necessary memeory for objects ( when var are created or objects incl parameters)
+- Garbage Collector then deletes the memory ( frees memory) after usage 
+- Just-In-Time(JIT) Compiler then converts the IL code into Native Machine Language in order to execute the code by hardware
+- Exception Manager will catch all exceptions that are raised during the execution of the application 
+- Thread Manager is responsible to create , run and stop the threads **
+
+** Thread is an object in .NET that is responsible to execute the code. By default, every application contains a thread called Main thread 
+and you may create multiple threads based on main thread and thus you will make the application multi-threaded. So whenver you want to 
+execute multiple individual processes simultaneously, then you will use the threads and all those threads will be executed by thread manager.
+
+- And lastly, Security Manager verifies whether the application has permission to access system resources or not.
+
+
+
+
