@@ -1,0 +1,12 @@
+Naming Conventions 
+-----------------------
+
+
+camelCase -> for all local variables , parameters etc..
+
+PascalCase -> for all class names, structure names, namespace names , field names ,
+            method names, property names 
+
+IPascalCase -> for all interface names 
+
+_camelCase -> for all private fields 
