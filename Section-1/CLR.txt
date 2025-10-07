@@ -5,11 +5,11 @@ What is CLR and its features
 
 it's the execution engine for all .NET languages
 
-It is the code-execution enviroment for all types of .NET applications like console, web etc...
+It is the code-execution environment for all types of .NET applications like console, web etc...
 
 Converts IL to Native Machine Code
 
-CLR provides several runtime services which are essential such as : 
+CLR provides several runtime services which are essentially such as : 
 
 1. Class Loader
 2. Memory Manager
@@ -21,8 +21,8 @@ CLR provides several runtime services which are essential such as :
 
 How it works : 
 
-- It loads the class if necessary ( if in code a class is used then need access ) from compiled source code to memory 
-- Then Memory Manager allocates the necessary memeory for objects ( when var are created or objects incl parameters)
+- It loads the class if necessary ( is in code a class is used then need access ) from compiled source code to memory 
+- Then Memory Manager allocates the necessary memory for objects ( when var are created or objects incl parameters)
 - Garbage Collector then deletes the memory ( frees memory) after usage 
 - Just-In-Time(JIT) Compiler then converts the IL code into Native Machine Language in order to execute the code by hardware
 - Exception Manager will catch all exceptions that are raised during the execution of the application 
