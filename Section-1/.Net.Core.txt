@@ -1,0 +1,31 @@
+Whilst .NET Framework was released when .NET was released which was in 2002
+.NET Core was released in 2016
+
+It is ideal for cross-platform developments, which supports various operating 
+systems like Windows, Linuc and Mac
+
+ and hardware devices which includes desktop , web and mobile
+
+
+In fact, .NET Framework doesn't support other than windows so we cannot run them in macs 
+so .NET Core fills that gap 
+
+it has versions up to 3.1 
+
+Recently, Microsoft has upgraded / renamed .NET core as .NET after .NET Core 3.1
+So in the future there will be no updates to .NET Core
+.NET is the future of .net platform 
+
+.NET Core is used in Xamarin and ASP.NET Core 
+
+Xamarin -> development of mobile applications for Android, iOS and Windows 
+
+ASP.NET core -> development of web applications that can run on windows , linux and Mac 
+
+
+.NET Core is open-sourced 
+
+Contains the class library, but only of which is necessary for .NET Core
+It wouldn't contain any predefined libraries that are specific to windows for example
+
+.NET Core supports mainly two languages : C# and VB.NET 

@@ -1,0 +1,8 @@
+Versions isn't just limited to the actual framework but there were also 
+releases of updated CLR's 
+
+As of now , we are in version 4.8.1 and for CLR it is version 4 
+Languages also get updated. For C#, we're in version 8.1 
+
+.NET : 
+1.0 -> mostly data types, classes , basic types etc
