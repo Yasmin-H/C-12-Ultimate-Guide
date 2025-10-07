@@ -1,0 +1,15 @@
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/bin/Debug/net9.0/C_Course_App
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/bin/Debug/net9.0/C_Course_App.deps.json
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/bin/Debug/net9.0/C_Course_App.runtimeconfig.json
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/bin/Debug/net9.0/C_Course_App.dll
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/bin/Debug/net9.0/C_Course_App.pdb
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.AssemblyInfoInputs.cache
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.AssemblyInfo.cs
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.csproj.CoreCompileInputs.cache
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.sourcelink.json
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.dll
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/refint/C_Course_App.dll
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.pdb
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/C_Course_App.genruntimeconfig.cache
+/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/obj/Debug/net9.0/ref/C_Course_App.dll
