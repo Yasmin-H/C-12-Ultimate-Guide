@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F6Mqm6nLACo=",
+  "dgSpecHash": "QW8LHoOljpI=",
   "success": true,
   "projectFilePath": "/Users/yasmin.haidar/CSharpProjects/C-Course/C_Course_App/C_Course_App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yasmin.haidar/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/yasmin.haidar/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/yasmin.haidar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
